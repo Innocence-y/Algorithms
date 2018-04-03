@@ -1,4 +1,4 @@
-package BubbleSort;
+package bubblesort;
 
 /**
  * 描述:冒泡排序

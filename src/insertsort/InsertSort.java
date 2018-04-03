@@ -1,4 +1,4 @@
-package InsertSort;
+package insertsort;
 
 /**
  * 描述:直接插入排序

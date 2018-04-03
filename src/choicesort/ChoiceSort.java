@@ -1,4 +1,4 @@
-package ChoiceSort;
+package choicesort;
 
 /**
  * 描述:选择排序
